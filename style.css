@@ -5,3 +5,11 @@ img{
     height:auto;
     width:200px;
 }
+#box1{
+    height:200px;
+    width:200px;
+    background:linear-gradient(135deg,black,red,orange,white);
+}
+#box1:hover{
+    box-shadow:10px 15px 20px rgba(37 , 117,252,0.4); 
+}
